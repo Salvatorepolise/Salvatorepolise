@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Salvatore
 
-<!--
-**Salvatorepolise/Salvatorepolise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18-year-old aspiring developer and future startup founder from Italy 🇮🇹  
+I'm currently on a full-time self-taught journey to master coding, AI, business, and everything needed to build great tech products and lead as a CEO.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Goals
+
+- 📚 Learn full-stack development and computer science fundamentals  
+- 🧠 Study artificial intelligence, startup strategy, and modern tech trends  
+- 🚀 Build useful tools for real people, starting from zero  
+- 🧱 Gain real-world experience by creating and launching my own digital products  
+- 🌍 Contribute to open innovation and connect with ambitious people worldwide  
+- 💼 Become a capable CEO who can code, sell, and lead with clarity  
+- 🎓 Outlearn traditional education through daily action and relentless curiosity
+
+---
+
+## 🌱 What I'm Doing Now
+
+- Learning HTML, CSS, JavaScript, and Python  
+- Practicing English and technical writing daily  
+- Reading impactful books on business, science, and technology  
+- Building discipline, habits, and vision to create long-term value  
+
+---
+
+## 📬 Let's Connect
+
+- X / Twitter: [@SalvPolise](https://x.com/SalvPolise)  
+- Email: salvatorepolisee@gmail.com
