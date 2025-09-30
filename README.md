@@ -28,5 +28,5 @@ I'm currently on a full-time self-taught journey to master coding, AI, business,
 
 ## 📬 Let's Connect
 
-- X / Twitter: [@SalvPolise](https://x.com/SalvPolise)  
+- X / Twitter: [@salpolise](https://x.com/salpolise)  
 - Email: salvatorepolisee@gmail.com
