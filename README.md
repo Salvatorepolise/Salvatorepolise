@@ -30,3 +30,4 @@ I'm currently on a full-time self-taught journey to master coding, AI, business,
 
 - X / Twitter: [@salvopolise](https://x.com/salvopolise)  
 - Email: salvatorepolisee@gmail.com
+- Linkedin: https://www.linkedin.com/in/salvatore-polise/
