@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salvatore
 
-I'm an 18-year-old aspiring developer and future startup founder from Italy 🇮🇹  
+I'm an 19-year-old aspiring developer and future startup founder from Italy 🇮🇹  
 I'm currently on a full-time self-taught journey to master coding, AI, business, and everything needed to build great tech products and lead as a CEO.
 
 ---
